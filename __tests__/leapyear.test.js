@@ -1,4 +1,4 @@
-import Template from './../src/template.js';
+import Template from '../src/leapyear.js';
 
 
 describe('Template', () => {

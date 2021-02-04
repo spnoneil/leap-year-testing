@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Template',
+      title: 'Leap Year',
       template: './src/index.html',
       inject: 'body'
     })
